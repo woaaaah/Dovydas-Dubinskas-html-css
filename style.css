@@ -1,0 +1,45 @@
+ #but{
+ 	background: #feb236;
+ 	color: #ffffff;
+ }
+nav {
+	background-color: #ff7b25;
+	width: 40%;
+	height: 150px;
+	padding: 10px;
+}
+nav select{
+	background: #feb236;
+	font-family: FontAwesome, sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	width: 20%;
+}
+nav input{
+	background: #feb236;
+	font-family: FontAwesome, sans-serif;
+	padding: 5px;
+	width: 20%;
+}
+nav h1{
+	font-weight: bold;
+	color: #ffffff;
+}
+nav button{
+	color: #ff7b25;
+	background-color: #ffffff;
+	padding: 5px;
+}
+.labas select{
+	background-color: #ff7b25;
+	outline: none;
+	border: none;
+	display: inline;
+	line-height: 80px;
+}
+.labas1{
+	display: inline;
+}
+::-webkit-input-placeholder {
+  color: #ffffff;
+ }
